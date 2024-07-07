@@ -1,8 +1,8 @@
 # Active-Learning
-## Methods: 𝜀-greedy, UCB1, UCB-𝛼:. Thompson, Bayesian UCB
+## Methods: Epsylon-Greedy, UCB1, UCB-Alpha:. Thompson, Bayesian UCB
 
 
-Active Learning
+
 Consider a 
 𝐾
 K-armed bandit machine, where pulling a lever may reward us with some amount of reward. The rewards from each lever are random variables following unknown, independent distributions. Our goal is to pull the levers in sequence to:
