@@ -14,3 +14,6 @@ Although our strategies work for various distributions, we will use the well-kno
 𝜃𝑘 representing the probability of receiving a reward of 1 unit from that lever. Thus, each pull corresponds to a Bernoulli trial, where 
 𝑦∈{0,1} is the reward received after pulling the 𝑘-th lever. Let 𝑦‾𝑘 denote the average reward from the 𝑘-th lever, 𝑛𝑘 denote the number of times the 
 𝑘-th lever has been pulled, and 𝑛 denote the total number of pulls so far.
+
+![image](https://github.com/eva-vision/Active-Learning/assets/52841811/f041e314-3522-4afa-8857-8d7dd70c40e5)
+
